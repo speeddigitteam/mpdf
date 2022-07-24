@@ -1,3 +1,8 @@
+Updates from SpeedDigit: 
+
+v1.0.0
+
+
 mPDF 8.1.x
 ===========================
 
